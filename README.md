@@ -14,7 +14,12 @@ A principal função desse App é mostrar alguns dos elementos mais comuns na cr
 Possui duas telas:
 
 - MainActivity
+
+![MainActivity Screenshot](img/MainActivity.png)
+
 - AdicionarLivrosActivity
+
+![AdicionarLivrosActivity Screenshot](img/AdicionarLivrosActivity.png)
 
 # Etapas
 
